@@ -2,7 +2,6 @@
 body {
   background-color: #121212;   /* Koyu gri-siyah arka plan */
   color: #e0e0e0;              /* Açık gri yazılar */
-  
   line-height: 1.6;
   margin: 0;
   padding: 0 20px;
@@ -49,3 +48,16 @@ img {
     padding: 20px; 
     border-radius: 8px;
   }
+section {
+  border: 1px solid #333;
+  background-color: #1e1e1e;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+section {
+  transition: all 0.3s ease;
+}
+section:hover {
+  border-color: #4fc3f7;
+}
