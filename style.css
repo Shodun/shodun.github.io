@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'HackNerd';
+    src: url('fonts/HackNerdFont-Regular.ttf') format('truetype');
+  }
+body{
+    font-family:'HackNerd';
+}
+h1{
+    color: red;
+}
+h1,h2,p{
+    text-align: center;
+}
+.specs{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    color:rgb(0, 0, 0);
+    border: 5px solid black;
+    border-radius: 3%;
+}
+.parts,.computerParts{
+    display: inline-block;
+    width: 48%;
+    margin:2;
+    vertical-align: top;
+}
