@@ -2,9 +2,7 @@
 body {
   background-color: #121212;   /* Koyu gri-siyah arka plan */
   color: #e0e0e0;              /* Açık gri yazılar */
-  line-height: 1.6;
-  margin: 0;
-  padding: 0 20px;
+ 
 }
 h1{
     color: red;
