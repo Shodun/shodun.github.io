@@ -1,7 +1,4 @@
-@font-face {
-    font-family: 'HackNerd';
-    src: url('fonts/HackNerdFont-Regular.ttf') format('truetype');
-  }
+
 body{
     font-family:'HackNerd';
 }
